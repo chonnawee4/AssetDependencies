@@ -9,5 +9,5 @@ Pod::Spec.new do |spec|
   spec.platform     = :ios, "11.0"
   spec.ios.deployment_target = "11.0"
   spec.swift_version = '5'
-  spec.source       = { :git => "https://github.com/chonnawee4/AssetDependencies.git, :tag => spec.version }
+  spec.source       = { :git => "https://github.com/chonnawee4/AssetDependencies.git", :tag => spec.version }
 end

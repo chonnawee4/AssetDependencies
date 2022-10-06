@@ -1,8 +1,8 @@
 Pod::Spec.new do |spec|
   spec.name         = "AssetDependencies"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.4"
   spec.summary      = "AssetDependencies"
-  spec.description  = "AssetDependencies"
+  spec.description  = "AssetDependencies AssetDependencies"
   spec.homepage     = "https://github.com/chonnawee4/AssetDependencies"
   spec.license      = "All Right Reserved"
   spec.author       = "THE 1 CENTRAL COMPANY LIMITED"
